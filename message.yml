@@ -1,0 +1,38 @@
+# Placeholders:
+# {player} {max_players} {online_players} {line_up}
+# {line_down} {player_health} {player_maxhealth}
+# {player_food} {player_maxfood} {player_level}
+# {player_ipadress} {player_uuid} {player_worldtime}
+# {player_alltimeplay} {random_player} {player_uuid}
+# {player_money}
+#
+#============================================#
+General:
+  noPerm: '&c&lYou don''t have permission to that command!'
+  noUser: '&c&lOnly players are allowed to use that command!'
+  cleanChat: "&c&lChat was successfully cleared!"
+Announcer:
+  Prefix: '&e&lAnnouncer&7>> '
+  Messages:
+  - "&aHello {player},"
+  - "Use /announcer help to get info how to config this plugin."
+MOTD:
+  Title:
+   Main: "&e&lWelcome &f&lto &e&lserver"
+   SubTitle: "&5&l{player}"
+  Messages:
+  - "{line_up}"
+  - "&e&lWelcome &9&l{player} &e&lto the &c&lCodding server"
+  - "&7Your health is &a{player_health}"
+  - "&7Your hunger is &a{player_food}"
+  - "&7Your level is &a{player_level}"
+  - "&7Your ip is &c{player_ipadress}"
+  - "&e&lPlayers on server &a{online_players} &e/ &c {max_players} "
+  - "{line_down}"
+JoinQuit:
+ Join: "&e{player} &ajoin the server"
+ Quit: "&e{player} &cleft the server"
+Chat:
+ Enable: "&9&lChat &7>> Chat has been enabled!"
+ Disable: "&9&lChat &7>> Chat has been disabled!"
+ Change: "&9&lChat &7>> Chat has been change!"
