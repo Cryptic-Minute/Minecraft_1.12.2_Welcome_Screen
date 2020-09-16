@@ -1,0 +1,16 @@
+Announcer:
+  Enabled: true #Enable announcer to work!
+  SendInChat: false #Announcer announcing messages in chat!
+  SendInActionBar: true #Announcer announcing messages in ActionBar!
+  Random: false #Announcer send random messages!
+  Interval: 120 #Interval to send message in (seconds)
+MOTD:
+  Enabled: true #Enabled MOTD to Work!
+  SendInTitle: true #On join send title message!
+  SendInChat: false #On join send in chat MOTD
+  fadeIn: 10 #Title in show message for 0.5s -- 20 = 1sec
+  fadeOut: 10 #Title out message for 0.5s -- 20 = 1sec
+  stay: 50 #Title stay 2.5 seconds! -- 20 = 1sec
+JoinQuit:
+ Join: true #If you don't need this messages!
+ Quit: true #If you don't need this messages!
