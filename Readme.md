@@ -1,13 +1,13 @@
 
 <!-- ----------------------------------------------------------------------- -->
-* .[Minecraft-Welcome-Screen](#Minecraft-Welcome-Screen)
+* [Minecraft](#Minecraft)
 * [Instructions](#instructions)
     * [Preparation](#preparation)
     
 <hr>    
 <!-- ----------------------------------------------------------------------- -->
 
-## Minecraft-Welcome-Screen
+## Minecraft
 <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/Important/Minecraft_cover.png" alt="minecraft" width="200"/>
 
 ## Instructions 
