@@ -26,9 +26,9 @@ This is the Welcome Screen its very nice and can run on a aternos server
    
    Step 6: When that is finished go to /Files/Plugins/ and make a folder named WelcomeMessage
    
-   Step 7: Do the stuff in this video
+   Step 7: Do the stuff in this video (Click where the mouse cursor is in the photos)
    
-   <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/Important/video1.mp4" alt="video1" width="550"/>
+   
    
 
 
