@@ -1,7 +1,7 @@
 Announcer:
-  Enabled: true #Enable announcer to work!
+  Enabled: false #Enable announcer to work!
   SendInChat: false #Announcer announcing messages in chat!
-  SendInActionBar: true #Announcer announcing messages in ActionBar!
+  SendInActionBar: false #Announcer announcing messages in ActionBar!
   Random: false #Announcer send random messages!
   Interval: 120 #Interval to send message in (seconds)
 MOTD:
