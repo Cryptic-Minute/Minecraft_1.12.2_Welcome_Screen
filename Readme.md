@@ -43,7 +43,7 @@ This is the Welcome Screen its very nice and can run on a aternos server
            then go back to my repo and open message.yml and copy that code and paste it into the message.yml in aternos
            then scroll up and save
     
-   ## Here is the video link (https://vimeo.com/459702496)
+   ## Here is the video link ()
    
    Step 10
            
