@@ -1,4 +1,5 @@
 # Minecraft-Welcome-Screen
+<img src="https://en.wikipedia.org/wiki/File:Minecraft_cover.png" alt="minecraft" width="480"/>
 
 
 
@@ -6,8 +7,9 @@
 <hr>
 <!-- ----------------------------------------------------------------------- -->
 
-* [Welcome](#welcome)
+* [Instructions](#instructions)
     * [Preparation](#preparation)
+    
 <hr>    
 <!-- ----------------------------------------------------------------------- -->
 
