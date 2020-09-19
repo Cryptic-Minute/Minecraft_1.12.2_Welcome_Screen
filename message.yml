@@ -11,11 +11,6 @@ General:
   noPerm: '&c&lYou don''t have permission to that command!'
   noUser: '&c&lOnly players are allowed to use that command!'
   cleanChat: "&c&lChat was successfully cleared!"
-Announcer:
-  Prefix: '&e&lAnnouncer&7>> '
-  Messages:
-  - "&aHello {player},"
-  - "Use /announcer help to get info how to config this plugin."
 MOTD:
   Title:
    Main: "&e&lWelcome &f&lto &e&lserver"
