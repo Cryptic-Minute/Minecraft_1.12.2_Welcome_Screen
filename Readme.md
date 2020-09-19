@@ -26,14 +26,9 @@ This is the Welcome Screen its very nice and can run on a aternos server
    
    Step 6: When that is finished go to /Files/Plugins/ and make a folder named WelcomeMessage
    
-   Step 7: Open the Folder and make a file called config.yml
+   Step 7: Do the stuff in this video
    
-   
-   
-   Step 8: Copy the code https://bit.ly/3iMl7mI (Note this is a shorten link for the repo)
-   
-   Step 9: Save the file
-   
+   <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/Important/video1.mp4" alt="video1" width="550"/>
    
 
 
