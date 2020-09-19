@@ -1,8 +1,8 @@
 # Minecraft-Welcome-Screen
 This Welcome screen is great it shows when you join your Minecraft Server
 
-*Preview
-  <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/4fjfgw.gif" alt="welcome" width="480"/>
 
-
+<img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/4fjfgw.gif" alt="welcome" width="480"/>
+<hr>
+<!-- ----------------------------------------------------------------------- -->
 
