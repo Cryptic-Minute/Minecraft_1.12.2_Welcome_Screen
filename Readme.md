@@ -26,7 +26,26 @@ This is the Welcome Screen its very nice and can run on a aternos server
    
    Step 6: When that is finished go to /Files/Plugins/ and make a folder named WelcomeMessage
    
-   Step 7: Do the stuff in this video (Click where the mouse cursor is in the photos)
+   Step 7: Go to software
+           Click Spigot/Bukkit
+           Click 1.12.2
+           Click the correct mark
+           
+   Step 8: Go to Files
+           Click on plugins
+           Make a new folder
+           Click on the green button
+           Make a new document and name it exactly like this config.yml
+           then go back to my repo and open config.yml and copy that code and paste it into the config.yml in aternos
+           then scroll up and save
+   
+   Step 9: Make a new document and name it exactly like this message.yml
+           then go back to my repo and open message.yml and copy that code and paste it into the message.yml in aternos
+           then scroll up and save
+           
+
+
+           
    
    
    
