@@ -1,5 +1,5 @@
 # Minecraft-Welcome-Screen
-<img src="https://en.wikipedia.org/wiki/File:Minecraft_cover.png" alt="minecraft" width="480"/>
+<img src="https://en.wikipedia.org/wiki/File:Minecraft_cover.png" alt="minecraft" width="200"/>
 
 
 
