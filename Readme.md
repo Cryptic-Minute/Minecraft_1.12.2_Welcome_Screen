@@ -5,6 +5,7 @@
 * [About](about)
 * [Instructions](#instructions)
     * [Preparation](#preparation)
+    * [How it looks](#how it looks)
     
 <hr>    
 <!-- ----------------------------------------------------------------------- -->
@@ -43,23 +44,12 @@ This is the Welcome Screen its very nice and can run on a aternos server
            then go back to my repo and open message.yml and copy that code and paste it into the message.yml in aternos
            then scroll up and save
     
-   ## Here is the video link (.)
+   ## Here is the video link (https://vimeo.com/459869717)
    
-   Step 10
-           
-
-
-           
+   Step 10: Launch your server and there you go
    
+          
+   ## How it looks
    
-   
-
-
-
-
-
-
-
-
 <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/Important/4fjfgw.gif" alt="welcome" width="480"/>
 <hr>
