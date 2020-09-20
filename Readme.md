@@ -5,7 +5,7 @@
 * [About](about)
 * [Instructions](#instructions)
     * [Preparation](#preparation)
-    * [How it looks](#how it looks)
+    * [Done](#done)
     
 <hr>    
 <!-- ----------------------------------------------------------------------- -->
@@ -49,7 +49,7 @@ This is the Welcome Screen its very nice and can run on a aternos server
    Step 10: Launch your server and there you go
    
           
-   ## How it looks
+   ## Done
    
 <img src="https://github.com/Cryptic-Minute/Minecraft_1.12.2_Welcome_Screen/blob/master/Important/4fjfgw.gif" alt="welcome" width="480"/>
 <hr>
